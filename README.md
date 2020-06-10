@@ -4,6 +4,7 @@ dubbo-consumer 服务消费者
 dubbo-api 服务提供者的接口API
 
 # dubbo 访问控制页面
+dubbo-admin-2.5.4.war放入tomcat中  
 URL:http://127.0.0.1:8090/dubbo-admin-2.5.4  
 USER:root  
 PASSWORD:root  
